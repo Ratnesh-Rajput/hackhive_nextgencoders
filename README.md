@@ -103,7 +103,7 @@ That's it you are good to go! Looking forward to your contributions.
 
 ## Contributors
 <a href="https://github.com/rahulkarda/FarmVision/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rahulkarda/nextgencoders_hackhive" />
+  <img src="https://contrib.rocks/image?repo=rahulkarda/hackhive_nextgencoders" />
 </a>
 
 <br />
