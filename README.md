@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/rahulkarda/hackhive_nextgencoders/blob/master/logo.png?raw=true" alt="Your Logo" width="200%" height="200%">
+<img src="https://github.com/rahulkarda/hackhive_nextgencoders/blob/master/logo.png?raw=true" alt="Your Logo" width="auto" height="100%">
 </td>
 <td>
 <b><i>FarmVision is a powerful web-based platform that empowers farmers to detect plant diseases by simply uploading an image. Leveraging advanced machine learning models and a user-friendly interface, FarmVision aims to provide timely and accurate disease identification, accompanied by the progression rates of potential diseases.</b>
