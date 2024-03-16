@@ -105,10 +105,9 @@ npm run dev
 That's it you are good to go! Looking forward to your contributions.
 
 ## Contributors
-<a href="https://github.com/rahulkarda/FarmVision/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rahulkarda/hackhive_nextgencoders" />
+<a href="https://github.com/CODER-Rxj11/hackhive_nextgencoders/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CODER-Rxj11/hackhive_nextgencoders" />
 </a>
-
 <br />
 <br />
 
