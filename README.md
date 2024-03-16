@@ -68,7 +68,7 @@ FarmVision provides you with comprehensive insights. It not only identifies the 
   |Next.js 13       |[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)|
   |TailwindCSS   |[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)|  
   |Typescript |[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)|
-  |Shadcn UI        |[![shadcn/ui]](https://ui.shadcn.com/)|
+  |Shadcn UI        |[![shadcn/ui](https://lucide.dev/library-logos/shadcn-ui-dark.svg)](https://ui.shadcn.com/)|
   |React Query        |[![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)](https://tanstack.com/query/v3/)|
 
 - ### Miscellaneous:   
