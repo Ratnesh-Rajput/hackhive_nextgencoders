@@ -46,6 +46,9 @@ FarmVision provides you with comprehensive insights. It not only identifies the 
 - ### IoT Development:   
   - **ThingSpeak**
     - **Link**: [ThingSpeak Website](https://thingspeak.com/)
+   
+       <img src="https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/c77d02b3-fe02-4313-b6a2-4bda5a7cce7c" width="300" />
+      <img src="https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/cb05919b-b586-4e56-87bf-1a75db879b9d" width="300" />
   
   - **Tinkercad**
     - **Link**: [Tinkercad Website](https://www.tinkercad.com/)
