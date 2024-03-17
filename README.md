@@ -45,14 +45,12 @@ FarmVision provides you with comprehensive insights. It not only identifies the 
 ## Technologies Behind FarmVision
 - ### IoT Development:   
   - **ThingSpeak**
-    - **Link**: [ThingSpeak Website](https://thingspeak.com/)
-   
-       <img src="https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/c77d02b3-fe02-4313-b6a2-4bda5a7cce7c" width="300" />
-      <img src="https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/cb05919b-b586-4e56-87bf-1a75db879b9d" width="300" />
-  
+    - **Link**: [ThingSpeak Website](https://thingspeak.com/channels/2473517)
+   ![Screenshot 2024-03-17 083324](https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/002666dc-53c4-4faa-b7b5-96b93eb3ecac)  
   - **Tinkercad**
-    - **Link**: [Tinkercad Website](https://www.tinkercad.com/)
-
+    - **Link**: [Tinkercad Website](https://www.tinkercad.com/things/a6659yNWlDT-farmvision-hack-hive)
+      
+      <img src="https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/098700d2-58bd-4dcb-88b2-a7b5739d0dbd" width="600px"></img>
   - **Wokwi**
     - **Link**: [Wokwi Website](https://wokwi.com/)
 
