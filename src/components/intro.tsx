@@ -8,7 +8,7 @@ import { siteConfig } from "@/config/site"
 
 export default function Introduction() {
   return (
-    <section className="py-4 md:py-0 min-h-screen grid md:grid-cols-2 place-items-center">
+    <section className="py-4 md:py-0 min-h-screen grid md:grid-cols-2 place-items-center mt-10">
       <div className="w-11/12 md:w-1/2 flex flex-col items-center text-center">
         {/* TODO: Replace Logo Later */}
         <Image
